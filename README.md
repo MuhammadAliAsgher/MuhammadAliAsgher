@@ -12,6 +12,7 @@
 - 📚 Focused on building impactful software solutions.
 - 💬 Ask me about **Web Development**, **Game Programming**, and **Memes**.
 - 📫 How to reach me: **muhammedaliasgher@gmail.com**.
+- 🛠️ While I strive to showcase my projects, some of my work has been removed due to unforeseen circumstances.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
