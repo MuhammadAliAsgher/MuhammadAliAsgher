@@ -38,16 +38,18 @@ I’m a **Software Engineering student** at FAST NUCES, Karachi, with a knack fo
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=java,c,js,ts,php,r,python,bash&theme=dark)](https://skillicons.dev)
-<img src="https://img.icons8.com/?size=48&id=44687&format=png&color=FFFFFF" alt="SQL" width="40" height="40" style="vertical-align:middle; background-color:#333; padding:2px;">
 
 ### Frameworks & Libraries
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,spring,laravel,bootstrap,tailwind,css,html&theme=dark)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-<img src="https://img.icons8.com/?size=48&id=114383&format=png&color=FFFFFF" alt="Oracle" width="40" height="40" style="vertical-align:middle; background-color:#333; padding:2px;">
+[![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev)
 
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,unity,aws,docker,vscode,eclipse,idea&theme=dark)](https://skillicons.dev)
+
 ---
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
