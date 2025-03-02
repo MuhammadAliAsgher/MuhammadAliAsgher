@@ -37,16 +37,17 @@ I’m a **Software Engineering student** at FAST NUCES, Karachi, with a knack fo
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,c,js,ts,php,r,python,sql,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,c,js,ts,php,r,python,bash&theme=dark)](https://skillicons.dev)
+<img src="https://img.icons8.com/?size=48&id=44687&format=png&color=FFFFFF" alt="SQL" width="40" height="40" style="vertical-align:middle; background-color:#333; padding:2px;">
 
 ### Frameworks & Libraries
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,spring,laravel,bootstrap,tailwind,css,html&theme=dark)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,oracle&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+<img src="https://img.icons8.com/?size=48&id=114383&format=png&color=FFFFFF" alt="Oracle" width="40" height="40" style="vertical-align:middle; background-color:#333; padding:2px;">
 
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,unity,aws,docker,vscode,eclipse,idea&theme=dark)](https://skillicons.dev)
-
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
